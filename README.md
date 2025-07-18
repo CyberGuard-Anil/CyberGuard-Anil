@@ -9,9 +9,9 @@
 - 👨‍🏫 Taught 800+ Students on Udemy & YouTube  
 - 📱 Android apps in Kotlin, Jetpack Compose, XML  
 - 💻 Passionate about Linux, Shell Scripting, and Bug Bounty  
-- 📺 YouTube: [Cyber Guard](https://youtube.com/@CyberGuard)  
-- 🔗 LinkedIn: [Anil Yadav](https://linkedin.com/in/anilyadav)  
-- 📫 Mail: anilyadav@example.com
+- 📺 YouTube: [Cyber Guard](https://youtube.com/@nrcyberguard)  
+- 🔗 LinkedIn: [Anil Yadav]([https://linkedin.com/in/anil-yadav-cg])  
+- 📫 Mail: neatrootshack@gmail.com
 
 ---
 
