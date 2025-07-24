@@ -8,7 +8,7 @@
 ---
 
 - 🛡️ 24+ Cybersecurity Certifications | CEH | CPENT | PNPT  
-- 👨‍\U0001F3EB Taught 1000+ Students on Udemy & YouTube  
+- 👨‍\U0001f3eb Taught 1000+ Students on Udemy & YouTube  
 - 📱 Android apps in Kotlin, Jetpack Compose, XML  
 - 💻 Passionate about Linux, Shell Scripting, and Bug Bounty  
 - 📺 YouTube: [Cyber Guard](https://youtube.com/@nrcyberguard)  
@@ -57,7 +57,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" alt="Anil Yadav GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=CyberGuard-Anil&theme=github-dark-blue&hide_border=false" alt="Anil Yadav GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=CyberGuard-Anil&theme=github-dark-blue&hide_border=false" alt="Anil Yadav GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" />
   <br/>
