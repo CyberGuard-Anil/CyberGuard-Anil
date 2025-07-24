@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/CEH-EA1D2C?style=for-the-badge&logo=hackthebox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=tryhackme&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Networking-00758F?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 
 <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -60,5 +61,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" alt="Anil Yadav GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberGuard-Anil&theme=github-dark-blue&hide_border=false" alt="Anil's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=CyberGuard-Anil&theme=github-dark-blue&hide_border=false" alt="Anil Yadav GitHub Streak"/>
 </p>
