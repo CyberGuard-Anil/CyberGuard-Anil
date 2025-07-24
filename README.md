@@ -13,7 +13,7 @@
 - 💻 Passionate about Linux, Shell Scripting, and Bug Bounty  
 - 📺 YouTube: [Cyber Guard](https://youtube.com/@nrcyberguard)  
 - 🔗 LinkedIn: [Anil Yadav](https://linkedin.com/in/anil-yadav-cg)  
-- 📫 Mail: neatrootstech@gmail.com  
+- 📧 Mail: neatrootshack@gmail.com  
 
 ---
 
@@ -58,7 +58,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" alt="Anil Yadav GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberGuard-Anil&theme=github-dark-blue"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberGuard-Anil&theme=github-dark-blue&hide_border=false" alt="Anil's GitHub Streak"/>
 </p>
