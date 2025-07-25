@@ -49,16 +49,14 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats (No Errors, Fully Working):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark" alt="Anil Yadav GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=CyberGuard-Anil&theme=dark&border_radius=6.5" alt="Anil Yadav GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberGuard-Anil&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" alt="Profile Summary Card" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberGuard-Anil&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" alt="Trophy Cards" />
 </p>
