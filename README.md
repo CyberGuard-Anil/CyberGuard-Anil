@@ -49,14 +49,14 @@
 
 ---
 
-### 📊 GitHub Stats (No Errors, Fully Working):
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" alt="Profile Summary Card" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberGuard-Anil&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" alt="Trophy Cards" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" alt="Anil Yadav GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberGuard-Anil&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" />
 </p>
