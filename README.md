@@ -20,14 +20,12 @@
 ### 🛠️ Tech Stack:
 
 <p align="center">
-<!-- Android / Kotlin / Java -->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<!-- Cyber & Terminal -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell%20Scripting-%230075a8?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -38,7 +36,6 @@
   <img src="https://img.shields.io/badge/CEH-EA1D2C?style=for-the-badge&logo=hackthebox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=tryhackme&logoColor=green"/>
   <img src="https://img.shields.io/badge/Networking-00758F?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-<!-- Dev Tools -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -55,9 +52,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=CyberGuard-Anil&theme=dark&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" alt="Anil Yadav GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark" alt="Anil Yadav GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=CyberGuard-Anil&theme=dark&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" alt="Anil Yadav GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CyberGuard-Anil&theme=dark&border_radius=6.5" alt="Anil Yadav GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" />
   <br/>
