@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" alt="Anil Yadav GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=CyberGuard-Anil&theme=dark&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" alt="Anil Yadav GitHub Streak" />
   <br/>
   <img src="https://github-readme-streak-stats.demolab.com?user=CyberGuard-Anil&theme=dark&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" alt="Anil Yadav GitHub Streak" />
   <br/>
