@@ -50,55 +50,17 @@
 ---
 
 ### 📊 GitHub Stats:
-<!-- ===== Hacker-style header for README ===== -->
 <p align="center">
-  <!-- Big hacker-typing banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&color=00FF00&width=900&center=true&vCenter=true&lines=🔒+Blue+Phantom+Activated...;⚡+Scanning+Bluetooth+Targets...;💀+Access+Granted!" alt="Hacker Banner" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" alt="Anil Yadav GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=00FF00&size=22&center=true&vCenter=true&lines=🔒+Blue+Phantom+Activated...;⚡+Scanning+Bluetooth+Targets...;💀+Access+Granted!">
 </p>
 
-<!-- Two-column layout: left (intro / small badge) | right (stats + langs) -->
-<table align="center" width="100%">
-  <tr>
-    <!-- LEFT: small intro / optional badges -->
-    <td width="48%" valign="top" style="padding-right:10px">
-      <p align="left">
-        <!-- short intro block -->
-        <strong>Hi, I'm Anil Yadav (CyberGuard-Anil)</strong> 👋<br/>
-        Security researcher • Bluetooth & wireless enthusiast • Python tinkerer<br/>
-        <sub><em>Ethical research & authorized testing only.</em></sub>
-      </p>
-
-      <!-- optional small badges -->
-      <p>
-        <img src="https://img.shields.io/badge/OS-Linux-blue?style=flat-square&logo=linux" alt="Linux" />
-        <img src="https://img.shields.io/badge/Role-Pentester-red?style=flat-square" alt="Pentester" />
-        <img src="https://img.shields.io/badge/Focus-Bluetooth-green?style=flat-square" alt="Bluetooth" />
-      </p>
-
-      <!-- Profile summary card (compact) -->
-      <p>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" alt="Profile Details" />
-      </p>
-    </td>
-
-    <!-- RIGHT: GitHub stats + top langs -->
-    <td width="52%" valign="top" style="padding-left:10px">
-      <!-- Main GitHub stats -->
-      <p align="right">
-        <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Anil's GitHub Stats" />
-      </p>
-
-      <!-- Top languages (compact) -->
-      <p align="right" style="margin-top:6px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- small footer note -->
 <p align="center">
-  <sub style="color:#9aa4a6">Profile themed for a dark, hacker aesthetic — intended for portfolio & research presence. Use responsibly.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00FF00&icon_color=00FF00">
 </p>
-<!-- ===== end header ===== -->
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" />
+</p>
