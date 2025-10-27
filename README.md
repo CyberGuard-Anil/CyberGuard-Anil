@@ -55,8 +55,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=github_dark&hide_title=false&hide_border=false" alt="Anil Yadav GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberGuard-Anil&theme=onedark&no-frame=true&no-bg=true&margin-w=5"/>
-  <br/>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=00FF00&size=22&center=true&vCenter=true&lines=🔒+Blue+Phantom+Activated...;⚡+Scanning+Bluetooth+Targets...;💀+Access+Granted!">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberGuard-Anil&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00FF00&icon_color=00FF00">
+</p>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" />
 </p>
