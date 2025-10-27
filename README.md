@@ -56,7 +56,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGuard-Anil&layout=compact&theme=github_dark" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CyberGuard-Anil&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberGuard-Anil&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="640">
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberGuard-Anil&theme=github_dark" />
 </p>
