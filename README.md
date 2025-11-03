@@ -8,7 +8,7 @@
 ---
 
 - 🛡️ 24+ Cybersecurity Certifications | CEH | CPENT | PNPT  
-- 👨‍🏫 Taught 1000+ Students on Udemy & YouTube  
+- 👨‍🏫 Taught 1400+ Students on Udemy & YouTube  
 - 📱 Android apps in Kotlin, Jetpack Compose, XML  
 - 💻 Passionate about Linux, Shell Scripting, and Bug Bounty  
 - 📺 YouTube: [Cyber Guard](https://youtube.com/@nrcyberguard)  
